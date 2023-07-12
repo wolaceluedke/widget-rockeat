@@ -5,7 +5,7 @@ export function Widget () {
   //  ###################HEADER
 <div className="w-[448px] rounded overflow-hidden">
   <div className="bg-zinc-200 dark:bg-zinc-800 py-4 px-6 flex items-center justify-between">
-    <span className="font-bold text-zinc-800 ">Notificações</span>
+    <span className="font-bold">Notificações</span>
       <button className="text-violet-500 font-bold text-xs hover:text-violet-400">MARCAR TODAS COMO VISTAS</button>
   </div>
     {/* Recent Section */}
